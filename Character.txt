@@ -1,4 +1,7 @@
 隱藏的項目
 修改檔案
 
-新分支
+新分支修改心分之
+private int abc;
+新加入private int abc;
+private int abc;
